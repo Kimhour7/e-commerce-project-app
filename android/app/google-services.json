@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590677756920",
+    "project_id": "e-comers-app-2f169",
+    "storage_bucket": "e-comers-app-2f169.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590677756920:android:d614bbac4d087ecd0b240d",
+        "android_client_info": {
+          "package_name": "com.example.e_comers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu5OnY79pNXv9NFgL8BRpx3pAzBwl9OWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
